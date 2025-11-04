@@ -89,9 +89,29 @@ Then you can run:
 
 You can now access the app from [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
+Main Page:
+<img width="2870" height="1468" alt="image" src="https://github.com/user-attachments/assets/3f74fd8a-774f-49b0-92b6-73577ce39d49" />
+
+Radius and Proximity Search Page:
+URL = [http://127.0.0.1:8000/search/map](http://127.0.0.1:8000/search/map)
+<img width="2875" height="1493" alt="image" src="https://github.com/user-attachments/assets/3772a9a6-377e-464c-a021-ad8762d98f1c" />
+
+
 # 🌐 API Endpoints
 ## Events API
 
     GET /api/events/ - List all events
     GET /api/geojson/ - Events GeoJson
+
+
+# Possible extensions
+
+### Some extensions I will make to this app in the future:
+- Fully Dockerize all aspects of the project (Django, Postgis, Nginx, Pgadmin)
+- Update/modernize UI
+- Update add event functionality
+- Introduce Polygons
+- Dynamically update date from API
+- add second API like Weather Data
+- Filtering of genre, venue etc.
 
