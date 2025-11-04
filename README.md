@@ -1,4 +1,4 @@
-# Advanced Web Mapping Labs - Solutions
+# Advanced Web Mapping CA1
 
 This repository contains a web mapping application for my Advanced Web Mapping module at TU Dublin
 
